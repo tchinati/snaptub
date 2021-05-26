@@ -21,8 +21,8 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "admob",
-    "mode_ads_interstitial" : "admob",
+    "mode_ads_banner" : "0",
+    "mode_ads_interstitial" : "0",
     "mode_ads_native_enabled" : false,
     "mode_ads_rewarded" : "0",
     "unity" : {
@@ -44,11 +44,11 @@
         "cpabuild_offer_api_key" : ""
     },
     "ogads" : {
-        "ogads_offer_state" : true,
+        "ogads_offer_state" : false,
         "ogads_offer_user_id" : ""
     },
     "local_offer" : {
-        "local_offer_state" : true
+        "local_offer_state" : false
     }
   },
   "apps" : [
