@@ -8,7 +8,7 @@
     "admob" : {
       "admob_banner_id" : "ca-app-pub-6552403043822494/9192404015",
       "admob_interstitial_id" : "ca-app-pub-6552403043822494/5253159003",
-      "admob_native_id" : "ca-app-pub-6552403043822494/3526990",
+      "admob_native_id" : "ca-app-pub-4622201711950449/6280001888",
       "admob_rewarded_id" : "ca-app-pub-6552403043822494/5061587312",
       "admob_unit_id" : ""
     },
@@ -21,7 +21,7 @@
       "facebook_native_id" : "IMG_16_9_APP_INSTALL#",
       "facebook_native_banner_id" : "IMG_16_9_APP_INSTALL#"
     },
-    "mode_ads_banner" : "admob",
+    "mode_ads_banner" : "0",
     "mode_ads_interstitial" : "0",
     "mode_ads_native_enabled" : true,
     "mode_ads_rewarded" : "0",
