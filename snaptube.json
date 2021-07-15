@@ -48,25 +48,25 @@
         "ogads_offer_user_id" : ""
     },
     "local_offer" : {
-        "local_offer_state" : false
+        "local_offer_state" : true
     }
   },
   "apps" : [
     {
         "id":"53173336",
-        "appName":"Test Name 1",
-        "appIcon":"https:\/\/gyazo.com\/04d88109ce840a10d18f627b9f3ed70f.png",
-        "appUrl":"https://play.google.com/store/apps/details?id=com.facebook.katana",
+        "appName":"Snaptube",
+        "appIcon":"https://tchinati.github.io/snaptub/icon-snaptube.png",
+        "appUrl":"https://play.google.com/store/apps/details?id=com.damhend.videodownloader",
         "appState":true,
         "appCountry":"all"
     },
     {
         "id":"53173386",
-        "appName":"Test Name 2",
-        "appIcon":"https:\/\/gyazo.com\/04d88109ce840a10d18f627b9f3ed70f.png",
-        "appUrl":"https:\/\/gyazo.com\/04d88109ce840a10d18f627b9f3ed70f.png",
+        "appName":"Video Downloader",
+        "appIcon":"https://tchinati.github.io/snaptub/icon2.png",
+        "appUrl":"https://play.google.com/store/apps/details?id=com.damhend.videodownloader",
         "appState":true,
-        "appCountry":"ma,us"
+        "appCountry":"all"
     }
   ]
 }
