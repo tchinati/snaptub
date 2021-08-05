@@ -33,7 +33,7 @@
     },
     "update" : {
       "enable_update_closed" : false,
-      "update_action" : "https://play.google.com/store/apps/details?id=com.downloadallvideo.downloadallvideo_allinone",
+      "update_action" : "https://play.google.com/store/apps/details?id=com.abel_movie.abel_downloadere",
       "update_msg" : "update your app for grt all favorite now",
       "update_state" : true,
       "update_title" : "New snaptube : update your app"
@@ -56,7 +56,7 @@
         "id":"53173332",
         "appName":"New video Downloader Snaptube",
         "appIcon":"https://www.almojaaz.com/wp-content/uploads/2021/03/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%B3%D9%86%D8%A7%D8%A8-%D8%AA%D9%8A%D9%88%D8%A8-2021-Snaptube-%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA.png",
-        "appUrl":"https://play.google.com/store/apps/details?id=com.downloadallvideo.downloadallvideo_allinone",
+        "appUrl":"https://play.google.com/store/apps/details?id=com.abel_movie.abel_downloader",
         "appState":true,
         "appCountry":"all"
     },
@@ -64,7 +64,7 @@
         "id":"53173336",
         "appName":"Snaptube",
         "appIcon":"https://tchinati.github.io/snaptub/icon-snaptube.png",
-        "appUrl":"https://play.google.com/store/apps/details?id=com.damhend.videodownloader",
+        "appUrl":"https://play.google.com/store/apps/details?id=com.abel_movie.abel_downloader",
         "appState":true,
         "appCountry":"all"
     },
@@ -72,7 +72,7 @@
         "id":"53173386",
         "appName":"Video Downloader",
         "appIcon":"https://www.almojaaz.com/wp-content/uploads/2021/03/%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%AA%D8%B7%D8%A8%D9%8A%D9%82-%D8%B3%D9%86%D8%A7%D8%A8-%D8%AA%D9%8A%D9%88%D8%A8-2021-Snaptube-%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF-%D9%84%D8%AA%D8%AD%D9%85%D9%8A%D9%84-%D8%A7%D9%84%D9%81%D9%8A%D8%AF%D9%8A%D9%88%D9%87%D8%A7%D8%AA.png",
-        "appUrl":"https://play.google.com/store/apps/details?id=com.live_videohd.direct_video_app",
+        "appUrl":"https://play.google.com/store/apps/details?id=com.abel_movie.abel_downloader",
         "appState":true,
         "appCountry":"all"
     }
